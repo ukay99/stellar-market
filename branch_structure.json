@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/ci-all-three-failures",
+    "fix/dispute-min-votes-cap",
+    "main",
+    "origin",
+    "pr-682"
+  ],
+  "parent": {
+    "fix/ci-all-three-failures": "main",
+    "fix/dispute-min-votes-cap": "main",
+    "main": null,
+    "origin": "main",
+    "pr-682": "main"
+  },
+  "order": [
+    "main",
+    "fix/ci-all-three-failures",
+    "fix/dispute-min-votes-cap",
+    "origin",
+    "pr-682"
+  ]
+}
